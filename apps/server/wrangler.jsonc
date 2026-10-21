@@ -18,7 +18,7 @@
   "kv_namespaces": [
     {
       "binding": "OAUTH_KV",
-      "id": "a84b7df46fa742ba902b5fc6d951890f",
+      "id": "dfaac419e32b4beca15ba2c380c01520",
     },
   ],
   "durable_objects": {
