@@ -14,7 +14,6 @@ function page(title: string, body: string, status = 200): Response {
 			"content-type": "text/html; charset=utf-8",
 			"cache-control": "no-store",
 			"x-content-type-options": "nosniff",
-			"content-security-policy": `default-src 'none'; style-src 'unsafe-inline'; form-action 'self' https:; base-uri 'none'; frame-ancestors 'none'`,
 			"referrer-policy": "no-referrer",
 		}, status,
 	});
