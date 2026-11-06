@@ -37,7 +37,7 @@
     {
       "binding": "OAUTH_KV",
       // Cloudflare replaces this placeholder with the new account's namespace.
-      "id": "00000000000000000000000000000000"
+      "id": "dfaac419e32b4beca15ba2c380c01520"
     }
   ],
   "durable_objects": {
